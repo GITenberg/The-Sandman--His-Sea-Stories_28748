@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '32818'
     url: http://www.gutenberg.org/2009/agents/32818
 description: A book of read-aloud sea faring adventures.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28748#The-Sandman--His-Sea-Stories
 gutenberg_issued: '2009-05-10'
 gutenberg_type: Text
 identifiers:
